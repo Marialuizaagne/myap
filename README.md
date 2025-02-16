@@ -1,6 +1,4 @@
 # myapp
-
-A new Flutter project.
 projeto com classes de planetas
 ## Getting Started
 
